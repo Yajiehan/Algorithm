@@ -1,5 +1,4 @@
-# Algorithm
-Project: Maze Solver using Depth-First Search (DFS)
+# Project: Maze Solver using Depth-First Search (DFS)
 Algorithm
 The provided code implements a maze solver using the Depth-First Search (DFS) algorithm. DFS is a popular graph traversal algorithm that explores as far as possible along each branch before backtracking.
 
